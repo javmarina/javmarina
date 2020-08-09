@@ -5,7 +5,7 @@
 
 * 👨‍🎓 University degree in Electronics, Robotics and Mechatronics Engineering.
 * 💡 Interested in programming, digital electronics, robotics and AI.
-* 👨‍💻 Object Oriented Programming (Java), Android development, a little bit of microcontrollers (C)...
+* 👨‍💻 Object Oriented Programming (Java <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="16">), Android development, a little bit of microcontrollers (<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="16">)...
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/javier-marina-miranda-1a12111a0/) or [email](mailto:javmarina+G@gmail.com)
 
 
