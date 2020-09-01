@@ -2,8 +2,8 @@
 
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6) ![](https://img.shields.io/badge/OS-Ubuntu_18.04-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=E95420) ![](https://img.shields.io/badge/Code-Android-informational?style=flat-square&logo=Android&logoColor=white&color=3DDC84) ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=007396) ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=A8B9CC)
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=javmarina&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javmarina&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=javmarina&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javmarina&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 * 👨‍🎓 Bsc. in Electronics, Robotics and Mechatronics Engineering.
 * 💡 Interested in programming, digital electronics, robotics and AI.
