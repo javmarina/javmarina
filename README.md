@@ -5,7 +5,7 @@
 [![My stats](https://github-readme-stats.vercel.app/api?username=javmarina&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javmarina&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-* 👨‍🎓 Bsc. in Electronics, Robotics and Mechatronics Engineering.
+* 👨‍🎓 BSc. in Electronics, Robotics and Mechatronics Engineering.
 * 💡 Interested in programming, digital electronics, robotics and AI.
 * 👨‍💻 Object Oriented Programming (Java <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="16">), Android development, a little bit of microcontrollers (<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="16">)...
 * 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-javmarina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-marina-miranda-1a12111a0/)](https://www.linkedin.com/in/javier-marina-miranda-1a12111a0/) or [![Gmail Badge](https://img.shields.io/badge/-javmarina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javmarina+G@gmail.com)](mailto:javmarina+G@gmail.com)
