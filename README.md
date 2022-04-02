@@ -5,6 +5,7 @@
 [![My stats](https://github-readme-stats.vercel.app/api?username=javmarina&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javmarina&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+* 👨‍💻 Working at HP Robotics Lab (HP Barcelona) as an R&D Firmware Engineer.
 * 👨‍🎓 BSc. in Electronics, Robotics and Mechatronics Engineering.
 * 👨‍🎓 Master's degree in Intelligent Systems.
 * 💡 Interested in programming, digital electronics, robotics and AI.
